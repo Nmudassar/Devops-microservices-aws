@@ -1,3 +1,10 @@
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Helm](https://img.shields.io/badge/Helm-Kubernetes%20Packages-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black)
+
 # DevOps Microservices Implementation on AWS
 
 This project demonstrates a **production-style DevOps implementation**
